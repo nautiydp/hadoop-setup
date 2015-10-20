@@ -108,3 +108,4 @@ copy the program from google and run in eclipse by passing these parameters.
 hdfs://localhost:9000/Sample/word.txt
 hdfs://localhost:9000/Sample/sample_output
 
+Test
